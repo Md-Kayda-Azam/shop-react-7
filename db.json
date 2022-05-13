@@ -1,0 +1,141 @@
+{
+  "Products": [
+    {
+      "name": "Relax Dizain Cotton half Sleeve",
+      "slug": "relax-dizain-Cotton-half-sleeve",
+      "regular_price": "129",
+      "sale_price": "100",
+      "decs": "ভাই য়েরা কেউ দারাজ থেকে কিছু কিনবেন না এইসব পণ্য ভালো না",
+      "reting": "",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://i.pinimg.com/originals/62/98/b0/6298b026a65cf80bcf9dce061e9b79c9.png",
+      "rating": "4",
+      "id": 4
+    },
+    {
+      "name": "Men's T-Shirts",
+      "slug": "men's-T-shirts",
+      "regular_price": "125",
+      "sale_price": "100",
+      "decs": "ধন্যবাদ দারাজকে,যেমন টা চেয়েছিলাম ঠিক তেমন টাই পেয়েছি।",
+      "reting": "",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://cf.shopee.in/file/68ea5a1636338410d7067ed093d632cc",
+      "rating": "5",
+      "id": 5
+    },
+    {
+      "name": "sarees",
+      "slug": "sarees",
+      "regular_price": "2000",
+      "sale_price": "1002",
+      "decs": "mmj kjfiuewhiuq dset esrte srget sret",
+      "reting": "",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "http://picture-cdn.wheretoget.it/xgrdhp-l-610x610-dress-saree-designer+saree-wedding+saree-party+wear+saree-new+fashion+saree-stylish+saree.jpg",
+      "rating": "5",
+      "id": 6
+    },
+    {
+      "name": "saree fashion",
+      "slug": "saree-fashion",
+      "regular_price": "",
+      "sale_price": "200",
+      "decs": "cc kf ff f",
+      "reting": "",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://www.jiofab.com/pub/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/l/a/latest-indian-fashion-two-tone-vichitra-silk-saree-for-wedding-jf22146-n.jpg",
+      "rating": "4",
+      "id": 7
+    },
+    {
+      "name": "Cat Staylish Bag for Biker",
+      "slug": "cat-staylish-bag-for-biker",
+      "regular_price": "750",
+      "sale_price": "370",
+      "decs": "পন্য টার কোয়ালিটি ভালো, তবে জিপ টা বরো ভালো হওয়া দরকার ছিল,\n",
+      "reting": "",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://static-01.daraz.com.bd/p/3b848868aa3cd81489a384180e9006f6.jpg",
+      "rating": "4",
+      "id": 8
+    },
+    {
+      "name": "computer",
+      "slug": "computer",
+      "regular_price": "150000",
+      "sale_price": "100000",
+      "decs": "vlo computer onek vlo ",
+      "reting": "3",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://images.unsplash.com/photo-1593640495253-23196b27a87f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZGVza3RvcCUyMGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "rating": "4",
+      "id": 9
+    },
+    {
+      "name": "computer",
+      "slug": "computer",
+      "regular_price": "150000",
+      "sale_price": "100000",
+      "decs": "vlo computer onek vlo ",
+      "reting": "4",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://images.unsplash.com/photo-1593640495253-23196b27a87f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8ZGVza3RvcCUyMGNvbXB1dGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "rating": "4",
+      "id": 10
+    },
+    {
+      "name": "Readymade Stylish Fashionable Hot Kurti Kamiz For Girls Long Pure Soft Linen",
+      "regular_price": "650",
+      "sale_price": "220",
+      "decs": "২টি জামার ওয়াডার দিছিলাম এইমাত্র পেলাম ভাবতেই পারিনি এত ভাল হবে এবং সেলার ভাই এতো তাড়াতাড়ি আমার কাছে পৌঁছে দিবে তাই দারাজকে ধন্যবাদ সেলার ভাইকেও ধন্যবাদ। আপনারাও যেকোন পণ্য ওয়াডার করতে পরেন",
+      "slug": "readymade-stylish-fashionable-hot-kurti-kamiz-for-girls-long-pure-soft-linen",
+      "rating": "4",
+      "categoryId": "{data.id}",
+      "tagId": "{data.id}",
+      "photo": "https://static-01.daraz.com.bd/p/dd5b2c60202a8e070e39cfeed1218ef4.jpg",
+      "id": 11
+    }
+  ],
+  "Categories": [
+    {
+      "id": 2,
+      "name": "Md Kayda azam ",
+      "slug": "md-kayda-azam-"
+    },
+    {
+      "id": 4,
+      "name": "ami tmk vlobashi ",
+      "slug": "ami-tmk-vlobashi-"
+    },
+    {
+      "id": 5,
+      "name": "in sh allah ami sofol hobe",
+      "slug": "in-sh-allah-ami-sofol-hobe"
+    }
+  ],
+  "Tags": [
+    {
+      "id": 4,
+      "name": "I love you Rosul",
+      "slug": "i-love-you-rosul"
+    },
+    {
+      "id": 5,
+      "name": "tumi ki amk love koro na",
+      "slug": "tumi-ki-amk-love-koro-na"
+    },
+    {
+      "id": 6,
+      "name": "in sha llah ami sofol hobe ",
+      "slug": "in-sha-llah-ami-sofol-hobe-"
+    }
+  ]
+}
